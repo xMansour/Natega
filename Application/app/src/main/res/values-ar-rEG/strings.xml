@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">نتيجة</string>
+    <string name="academic_number">الرقم الأكاديمى</string>
+    <string name="get_result">الحصول على النتيجه</string>
+    <string name="edit_text_error">الرقم الاكاديمى خطأ</string>
+    <string name="message_sent">تم إرسال الرساله</string>
+    <string name="permission_needed">مطلوب إذن</string>
+    <string name="permission_explanation">مطلوب إذن إرسال رساله للحصول على النتيجة من الخادم.</string>
+    <string name="ok">حسنا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="permission_granted">تم الحصول على الإذن</string>
+    <string name="permission_denied">تم رفض الإذن</string>
+</resources>
